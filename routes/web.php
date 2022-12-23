@@ -90,6 +90,3 @@ Route::get('/', 'App\Http\Controllers\dashboard\Analytics@index')->name('dashboa
 
 */
  });
-
-
-
